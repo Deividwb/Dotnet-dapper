@@ -1,0 +1,1 @@
+Para criar uma aplicação web api usamos o comando> dotnet new webapi
