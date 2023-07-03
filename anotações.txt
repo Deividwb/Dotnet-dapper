@@ -1,1 +1,12 @@
 Para criar uma aplicação web api usamos o comando> dotnet new webapi
+- controllers -> rota da minha api , metodos GET, PUT, DELETE, UPDATE...
+
+- Models -> request (adicionar informações)
+         -> response(retornar informações)
+
+- Repository -> Comunicação com o BD; injeção de dependência 
+             -> Interface   
+criar uma classe que vai implementar o contrato(interface)   
+
+- Dentro do Program.cs fazer a injeção de dependências
+- criar string de conexão no appsettings (https://www.connectionstrings.com/)

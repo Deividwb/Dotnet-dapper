@@ -25,3 +25,10 @@ C:\Aprendendo C#\dotnet-dapper\obj\Debug\net6.0\refint\dotnet-dapper.dll
 C:\Aprendendo C#\dotnet-dapper\obj\Debug\net6.0\dotnet-dapper.pdb
 C:\Aprendendo C#\dotnet-dapper\obj\Debug\net6.0\dotnet-dapper.genruntimeconfig.cache
 C:\Aprendendo C#\dotnet-dapper\obj\Debug\net6.0\ref\dotnet-dapper.dll
+C:\Aprendendo C#\dotnet-dapper\bin\Debug\net6.0\Dapper.dll
+C:\Aprendendo C#\dotnet-dapper\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Aprendendo C#\dotnet-dapper\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Aprendendo C#\dotnet-dapper\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Aprendendo C#\dotnet-dapper\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Aprendendo C#\dotnet-dapper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aprendendo C#\dotnet-dapper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
