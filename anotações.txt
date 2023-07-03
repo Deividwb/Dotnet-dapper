@@ -1,3 +1,8 @@
+Extensões - C#
+          - C# Extensions
+          - Open NuGet Galery (Dapper; Microsoft.Data.SqlClient)
+       
+
 Para criar uma aplicação web api usamos o comando> dotnet new webapi
 - controllers -> rota da minha api , metodos GET, PUT, DELETE, UPDATE...
 
