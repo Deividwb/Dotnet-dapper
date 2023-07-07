@@ -1,6 +1,7 @@
 Extensões - C#
           - C# Extensions
-          - Open NuGet Galery (Dapper; Microsoft.Data.SqlClient)
+          - Open NuGet Galery (Dapper; Microsoft.Data.SqlClient-> banco sql
+                              Npgsql -> banco postgres)
        
 
 Para criar uma aplicação web api usamos o comando> dotnet new webapi

@@ -1,6 +1,8 @@
-using System.Data.SqlClient;
+// using System.Data.SqlClient;
 using Dapper;
 using dotnet_dapper.Models;
+using Npgsql;
+
 
 namespace dotnet_dapper.Repository
 {
@@ -23,7 +25,7 @@ namespace dotnet_dapper.Repository
                              p.nome  Produtora
                         FROM tb_filme f
                         JOIN tb_produtora p ON f.id_produtora = p.id";
-            using (var con = new SqlConnection(connectionString))
+            using (var con = new NpgsqlConnection(connectionString))
             {
                 return await con.QueryAsync<FilmeResponse>(sql);
 
